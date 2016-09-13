@@ -23,9 +23,9 @@ This app will consist of a single screen with game board and nav links to the Gi
 and the About modal.  When the game is first rendered, there will be a start screen with a button to start the game along with a counter showing the player's high score. While the game is playing, the user will be able to pause the game using the space bar. When the game is over, the user will be able to see their score with an option to play agin or return to the home screen.
 
 ![wireframes]
-(https://github.com/tygooch/little-bo-peep/wireframes/HomePage.png)
-(https://github.com/tygooch/little-bo-peep/wireframes/PlayPage.png)
-(https://github.com/tygooch/little-bo-peep/wireframes/GameOverPage.png)
+(https://github.com/TyGooch/little-bo-peep/blob/master/wifeframes/HomePage.png)
+(https://github.com/TyGooch/little-bo-peep/blob/master/wifeframes/PlayPage.png)
+(https://github.com/TyGooch/little-bo-peep/blob/master/wifeframes/GameOverPage.png)
 
 ### Architecture and Technologies
 
