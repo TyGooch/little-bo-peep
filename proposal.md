@@ -8,9 +8,8 @@ Little Bo Peep is a simple 1-player game that plays out on a rectangular grid. S
 
 In Little Bo Peep, users will be able to:
 
-- [ ] Start, pause, and reset the game board
+- [ ] Start, and reset the game board
 - [ ] Use left and right arrow keys to capture sheep
-- [ ] Keep track of their high score
 
 In addition, this project will include:
 
